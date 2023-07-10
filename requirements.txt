@@ -1,0 +1,5 @@
+torch
+transformers
+gpt-index
+PyPDF2
+streamlit
